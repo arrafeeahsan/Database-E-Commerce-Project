@@ -1,0 +1,23 @@
+C:\Users\israr\source\repos\oraclecsharp\bin\Debug\oraclecsharp.exe.config
+C:\Users\israr\source\repos\oraclecsharp\bin\Debug\oraclecsharp.exe
+C:\Users\israr\source\repos\oraclecsharp\bin\Debug\oraclecsharp.pdb
+C:\Users\israr\source\repos\oraclecsharp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.csprojAssemblyReference.cache
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.Form1.resources
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.Properties.Resources.resources
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.csproj.GenerateResource.cache
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.csproj.CoreCompileInputs.cache
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.csproj.CopyComplete
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.exe
+C:\Users\israr\source\repos\oraclecsharp\obj\Debug\oraclecsharp.pdb
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\bin\Debug\oraclecsharp.exe.config
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\bin\Debug\oraclecsharp.exe
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\bin\Debug\oraclecsharp.pdb
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.csproj.AssemblyReference.cache
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.Form1.resources
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.Properties.Resources.resources
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.csproj.GenerateResource.cache
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.csproj.CoreCompileInputs.cache
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.csproj.CopyComplete
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.exe
+C:\Users\arraf\OneDrive\Desktop\Summer 20-21\ADMS\Final\Final Project\oraclecsharp\obj\Debug\oraclecsharp.pdb
